@@ -1,0 +1,7 @@
+pandas
+nltk
+sentence-transformers
+hdbscan
+matplotlib
+umap-learn
+plotly
